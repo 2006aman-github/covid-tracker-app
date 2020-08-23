@@ -1,0 +1,16 @@
+.table {
+  margin-bottom: 15px;
+  overflow: auto;
+  height: 370px;
+  color: #6a5d5d;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.table tr:nth-of-type(odd) {
+  background-color: #f3f2f8;
+}
+.table tr {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+}

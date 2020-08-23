@@ -1,0 +1,7 @@
+.info__flag {
+  height: 80px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 8px;
+}
